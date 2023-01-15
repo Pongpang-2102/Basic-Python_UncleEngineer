@@ -20,7 +20,7 @@ for j in range(32) :
     tao.right(11.25)
 
 # วาดในส่วนก้าน
-tao.pencolor('green')
+tao.pencolor('green') 
 tao.right(90)
 tao.forward(200)
 tao.left(90)
@@ -30,9 +30,12 @@ tao.forward(50)
 tao.left(45)
 tao.forward(50)
 
+tao.fillcolor('lightgreen') # fill leaf color to be light green
+tao.begin_fill()
 for i in range(3) :
     tao.right(90)
     tao.forward(50)
+tao.end_fill()
 
 tao.left(45)
 tao.forward(100)
@@ -40,9 +43,12 @@ tao.forward(100)
 tao.left(45)
 tao.forward(50)
 
+tao.fillcolor('lightgreen') # fill leaf color to be light green
+tao.begin_fill()
 for i in range(3) :
     tao.right(90)
     tao.forward(50)
+tao.end_fill()
 
 tao.left(45)
 tao.forward(50)
