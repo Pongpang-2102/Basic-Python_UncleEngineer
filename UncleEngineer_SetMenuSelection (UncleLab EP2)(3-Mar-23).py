@@ -1,3 +1,8 @@
+# Challenge : Create Any program from Lesson we've just learnt today (Data Type / Data Structure)
+# Note : It must be consisted of at least 3 components from list shown below
+# (list/ Dictionary / For loop / function / Boolean / if-else elif)
+#-----------------------------------------------------------------------------------------------------------
+
 # ณ หน้าร้านปิ้งย่างชื่อดังแห่งหนึ่ง ๆ เพื่อน ๆ ทั้ง 4 คนปรึกษากันว่าวันนี้จะกินปิ้งย่างกันให้พุงกาง แค่จะกินเซตไหนดีล่ะ
 
 # Dictionary ข้อมูลเพื่อน ๆ ในกลุ่ม ประกอบด้วย ชื่อ และเงินที่พกมา
